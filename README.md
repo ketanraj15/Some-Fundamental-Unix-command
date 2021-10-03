@@ -6,7 +6,10 @@ The command line is a text interface for your computer. It’s a program that ta
 
 
 ## Creating new File
+
 You can create a file by typing touch file_name and executing it.
+<img src="Images/2.png" >
+<br>
 
 ## Displaying a file
 you can display the content of a file with the cat command by typing cat file_name.
